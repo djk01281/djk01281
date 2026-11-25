@@ -1,5 +1,6 @@
 <img width="1440" height="480" alt="carbon (31)" src="https://github.com/user-attachments/assets/5bdec74a-9811-44c5-8e42-60001c3e4bb3" />
 
+- 🔖 **Blog** : https://djk01281.vercel.app
 - 🏫 [Naver Connect AI Challenge](https://connect.or.kr/) : Mentor  `2026.07.`
 - 🏦 [Naver Financial](https://www.naverfincorp.com/) : FE Web Dev `2025.09. ~ now.`
 - 🪴 [Naver Financial FE Internship](https://www.naverfincorp.com/) : Intern `2025.07. ~ 2025.08.`
